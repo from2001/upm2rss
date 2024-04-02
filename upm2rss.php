@@ -2,14 +2,14 @@
 // UPM to RSS Converter
 // https://github.com/from2001/upm2rss
 
-// Check if the 'id' GET parameter is set
-if (!isset($_GET['id'])) {
+// Check if the 'name' GET parameter is set
+if (!isset($_GET['name'])) {
     die('No ID provided');
 }
 
 // Construct the URL to fetch the JSON data
-$id = $_GET['id'];
-$url = "https://packages.unity.com/$id";
+$name = $_GET['name'];
+$url = "https://packages.unity.com/$name";
 
 // Use context to get HTTP response header
 $context = stream_context_create(array('http' => array('ignore_errors' => true)));

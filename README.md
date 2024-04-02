@@ -13,7 +13,7 @@ No specific installation steps are required. Simply place `upm2rss.php` on your 
 
 ## Usage
 
-To use the script, navigate to the location of `upm2rss.php` on your web server and append the query parameter `id` with the Unity package ID you wish to convert to RSS. For example:
+To use the script, navigate to the location of `upm2rss.php` on your web server and append the query parameter `name` with the Unity package name you wish to convert to RSS. For example:
 
-`http://yourserver.com/upm2rss.php?id=com.unity.xr.hands`
+`http://yourserver.com/upm2rss.php?name=com.unity.xr.hands`
 
