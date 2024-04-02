@@ -1,4 +1,6 @@
 <?php
+// UPM to RSS Converter
+// https://github.com/from2001/upm2rss
 
 // Check if the 'id' GET parameter is set
 if (!isset($_GET['id'])) {
