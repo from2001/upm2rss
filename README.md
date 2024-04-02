@@ -17,3 +17,6 @@ To use the script, navigate to the location of `upm2rss.php` on your web server 
 
 `http://yourserver.com/upm2rss.php?name=com.unity.xr.hands`
 
+
+## Sample
+https://yamaguchimasahiro.com/apps/upm2rss.php?name=com.unity.xr.hands
