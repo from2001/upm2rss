@@ -1,4 +1,4 @@
-# UPM version history to RSS Converter
+# Unity package version history to RSS Converter
 
 This PHP script converts Unity Package Manager (UPM) package data from JSON format to an RSS 2.0 feed. It is specifically designed to fetch package data from the Unity package registry and transform it into a standardized RSS feed.
 
