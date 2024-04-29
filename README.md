@@ -5,7 +5,6 @@ This PHP script converts Unity Package Manager (UPM) package data from JSON form
 ## Requirements
 
 - PHP 7.4 or higher
-- Access to the internet to fetch package data from Unity's package registry
 
 ## Installation
 
